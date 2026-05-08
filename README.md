@@ -19,7 +19,6 @@ I want to build things that matter, understand how models actually think, and ev
 
 - why a model is right matters just as much as *that* it's right
 - fairness in AI isn't a feature — it's a design requirement that keeps getting treated like a feature
-- NLP is just vibes formalised into math and I mean that with full respect
 
 ---
 
@@ -60,15 +59,6 @@ I want to build things that matter, understand how models actually think, and ev
 | 🔗 | [URL Shortener API](https://github.com/dishayayyy/url-shortener-api) | Flask, SQLite |
 | 📊 | [Retail Sales Analytics](https://github.com/dishayayyy/sales_data_analytics) | Python, Pandas, Matplotlib |
 | ⚙️ | [C Data Structures Library](https://github.com/dishayayyy/c-data-structures) | C |
-
----
-
-## stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishayayyy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishayayyy&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
